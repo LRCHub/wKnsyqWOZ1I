@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BREAK IN2 THE NITE",
+  "base_artist": "move",
+  "createdAt": "2025-12-01T18:19:56.375211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/01_BREAK_IN2_THE_NITE_move.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/02_BREAK_IN2_THE_NITE_move.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/03_BREAK_IN2_THE_NITE_move.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Break In2 the Nite",
+      "artist": "Initial D",
+      "has_synced": true,
+      "path": "select/04_Break_In2_the_Nite_Initial_D.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE",
+      "artist": "M.O.V.E",
+      "has_synced": true,
+      "path": "select/05_BREAK_IN2_THE_NITE_M.O.V.E.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "break in2 the nite",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/06_break_in2_the_nite_move.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/07_BREAK_IN2_THE_NITE_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Break In2 The Nite (Dave Rodgers Remix)",
+      "artist": "Move",
+      "has_synced": false,
+      "path": "select/08_Break_In2_The_Nite_(Dave_Rodgers_Remix)_Move.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE (tv mix)",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/09_BREAK_IN2_THE_NITE_(tv_mix)_move.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/10_BREAK_IN2_THE_NITE_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BREAK IN2 THE NITE (INITIAL D mix)",
+      "artist": "move",
+      "has_synced": false,
+      "path": "select/11_BREAK_IN2_THE_NITE_(INITIAL_D_mix)_move.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break In2 The Nite",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_Break_In2_The_Nite_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "BREAK IN2 THE NITE (Dave Rodgers Remix)",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_02_BREAK_IN2_THE_NITE_(Dave_Rodgers_Remix)_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "BREAK IN2 THE NITE - DAve Rodgers Remix",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_03_BREAK_IN2_THE_NITE_-_DAve_Rodgers_Remix_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Break In2 The Nite",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_04_Break_In2_The_Nite_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "BREAK IN2 THE NITE",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_05_BREAK_IN2_THE_NITE_m.o.v.e.txt"
+    }
+  ]
+}
